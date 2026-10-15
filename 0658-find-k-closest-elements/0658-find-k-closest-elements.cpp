@@ -19,7 +19,7 @@ public:
         vector<int>ans;
         while(k>0&&i>=0&&j<arr.size()){
             if(abs(arr[i]-x)<=abs(arr[j]-x)){
-                ans.push_back(arr[i]);
+                ans.insert(ans.begin(),arr[i]);
                 i--;
             }
             else{
@@ -29,7 +29,7 @@ public:
             k--;
         }
         while(k>0&&i>=0){
-            ans.push_back(arr[i]);
+            ans.insert(ans.begin(),arr[i]);
             i--;
             k--;
         }
@@ -38,7 +38,6 @@ public:
             j++;
             k--;
         }
-        sort(ans.begin(),ans.end());
         return ans;
     }
 };
