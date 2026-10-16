@@ -22,10 +22,20 @@ class Solution {
 public:
     int maxDepth(Node* root) {
         if(root==nullptr) return 0;
-        int d=0;
-        for(Node*child:root->children){
-            d=max(d,maxDepth(child));
+        queue<Node*>q;
+        q.push(root);
+        int l=0;
+        while(!q.empty()){
+            int size=q.size();
+            for(int i=1;i<=size;i++){
+                Node*node=q.front();
+                q.pop();
+                for(Node*child:node->children){
+                    q.push(child);
+                }
+            }
+            l++;
         }
-        return 1+d;
+        return l;
     }
 };
