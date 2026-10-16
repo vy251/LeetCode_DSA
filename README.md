@@ -10,6 +10,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/vy251/Leetcode_DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0994-rotting-oranges](https://github.com/vy251/Leetcode_DSA/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
@@ -52,4 +53,12 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vy251/Leetcode_DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Tree
+|  |
+| ------- |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/vy251/Leetcode_DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/vy251/Leetcode_DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
 <!---LeetCode Topics End-->
