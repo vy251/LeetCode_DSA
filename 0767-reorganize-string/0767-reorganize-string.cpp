@@ -3,31 +3,31 @@ public:
     string reorganizeString(string s) {
         vector<int>freq(26,0);
         priority_queue<pair<int,char>>pq;
+        int maxfreq=0;
+        char maxc;
         for(int i=0;i<s.size();i++){
             freq[s[i]-'a']++;
-        }
-        for(int i=0;i<26;i++){
-            if(freq[i]>0){
-                char c='a'+i;
-                pq.push({freq[i],c});
+            if(freq[s[i]-'a']>maxfreq){
+                maxfreq=freq[s[i]-'a'];
+                maxc=s[i];
             }
+            if(freq[s[i]-'a']>(s.size()+1)/2) return "";
         }
-        queue<pair<int,char>>q;
-        string ans="";
-        while(!pq.empty()){
-             auto [count,c]=pq.top();
-             pq.pop();
-             count--;
-             ans.push_back(c);
-             if(q.size()>0){
-                auto [a,b]=q.front();
-                q.pop();
-                if(a>0){
-                    pq.push({a,b});
+            string ans=s;
+            int i=0;
+            while(freq[maxc-'a']>0){
+                ans[i]=maxc;
+                i+=2;
+                freq[maxc-'a']--;
+            }
+            for(char c='a';c<='z';c++){
+                while(freq[c-'a']>0){
+                    if(i>=s.size()) i=1;
+                    ans[i]=c;
+                    i+=2;
+                    freq[c-'a']--;
                 }
-             }
-             if(count>0) q.push({count,c});
-        }
-        return ans.size()==s.size()?ans:"";
+            }
+        return ans;
     }
 };
