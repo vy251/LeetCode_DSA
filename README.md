@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/vy251/Leetcode_DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0785-is-graph-bipartite](https://github.com/vy251/Leetcode_DSA/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/vy251/Leetcode_DSA/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/vy251/Leetcode_DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0785-is-graph-bipartite](https://github.com/vy251/Leetcode_DSA/tree/master/0785-is-graph-bipartite) |
 ## String
 |  |
 | ------- |
@@ -81,4 +83,20 @@
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/vy251/Leetcode_DSA/tree/master/0767-reorganize-string) |
+## Union-Find
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/vy251/Leetcode_DSA/tree/master/0785-is-graph-bipartite) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/vy251/Leetcode_DSA/tree/master/0785-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/vy251/Leetcode_DSA/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/vy251/Leetcode_DSA/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
