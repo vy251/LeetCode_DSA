@@ -82,6 +82,7 @@
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/vy251/Leetcode_DSA/tree/master/0767-reorganize-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/vy251/Leetcode_DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Greedy
 |  |
 | ------- |
