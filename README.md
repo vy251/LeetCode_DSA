@@ -17,6 +17,7 @@
 | [0547-number-of-provinces](https://github.com/vy251/Leetcode_DSA/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/vy251/Leetcode_DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0785-is-graph-bipartite](https://github.com/vy251/Leetcode_DSA/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/vy251/Leetcode_DSA/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/vy251/Leetcode_DSA/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
@@ -78,6 +79,7 @@
 | [0547-number-of-provinces](https://github.com/vy251/Leetcode_DSA/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/vy251/Leetcode_DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0785-is-graph-bipartite](https://github.com/vy251/Leetcode_DSA/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/vy251/Leetcode_DSA/tree/master/0802-find-eventual-safe-states) |
 ## String
 |  |
 | ------- |
@@ -104,6 +106,7 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/vy251/Leetcode_DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/vy251/Leetcode_DSA/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/vy251/Leetcode_DSA/tree/master/0802-find-eventual-safe-states) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -112,4 +115,16 @@
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/vy251/Leetcode_DSA/tree/master/0785-is-graph-bipartite) |
+## Topological Sort
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/vy251/Leetcode_DSA/tree/master/0802-find-eventual-safe-states) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/vy251/Leetcode_DSA/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/vy251/Leetcode_DSA/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
