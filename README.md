@@ -9,6 +9,7 @@
 | [0994-rotting-oranges](https://github.com/vy251/Leetcode_DSA/tree/master/0994-rotting-oranges) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vy251/Leetcode_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vy251/Leetcode_DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/vy251/Leetcode_DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vy251/Leetcode_DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Breadth-First Search
 |  |
@@ -127,4 +128,8 @@
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/vy251/Leetcode_DSA/tree/master/0802-find-eventual-safe-states) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/vy251/Leetcode_DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 <!---LeetCode Topics End-->
