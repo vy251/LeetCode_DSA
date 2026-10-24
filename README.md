@@ -17,6 +17,7 @@
 | [0130-surrounded-regions](https://github.com/vy251/Leetcode_DSA/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/vy251/Leetcode_DSA/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/vy251/Leetcode_DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0743-network-delay-time](https://github.com/vy251/Leetcode_DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/vy251/Leetcode_DSA/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/vy251/Leetcode_DSA/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/vy251/Leetcode_DSA/tree/master/0994-rotting-oranges) |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/vy251/Leetcode_DSA/tree/master/0658-find-k-closest-elements) |
+| [0743-network-delay-time](https://github.com/vy251/Leetcode_DSA/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/vy251/Leetcode_DSA/tree/master/0767-reorganize-string) |
 ## Math
 |  |
@@ -79,6 +81,7 @@
 | [0130-surrounded-regions](https://github.com/vy251/Leetcode_DSA/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/vy251/Leetcode_DSA/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/vy251/Leetcode_DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0743-network-delay-time](https://github.com/vy251/Leetcode_DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/vy251/Leetcode_DSA/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/vy251/Leetcode_DSA/tree/master/0802-find-eventual-safe-states) |
 ## String
@@ -106,6 +109,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/vy251/Leetcode_DSA/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/vy251/Leetcode_DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/vy251/Leetcode_DSA/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/vy251/Leetcode_DSA/tree/master/0802-find-eventual-safe-states) |
 ## Graph Coloring
@@ -132,4 +136,12 @@
 |  |
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/vy251/Leetcode_DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/vy251/Leetcode_DSA/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/vy251/Leetcode_DSA/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
