@@ -11,14 +11,15 @@ public:
              int steps=p.second;
              if(word==endWord) return steps;
              for(char i=0;i<word.size();i++){
-                 string temp=word;
+                 char o=word[i];
                  for(char c='a';c<='z';c++){
-                     temp[i]=c;
-                     if(s.find(temp)!=s.end()){
-                        q.push({temp,steps+1});
-                        s.erase(temp);
+                     word[i]=c;
+                     if(s.find(word)!=s.end()){
+                        q.push({word,steps+1});
+                        s.erase(word);
                      }
                  }
+                 word[i]=o;
              }
         }
         return 0;
