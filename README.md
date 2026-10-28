@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/vy251/Leetcode_DSA/tree/master/0130-surrounded-regions) |
+| [0209-minimum-size-subarray-sum](https://github.com/vy251/Leetcode_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/vy251/Leetcode_DSA/tree/master/0658-find-k-closest-elements) |
 | [0778-swim-in-rising-water](https://github.com/vy251/Leetcode_DSA/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/vy251/Leetcode_DSA/tree/master/0994-rotting-oranges) |
@@ -41,6 +42,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/vy251/Leetcode_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/vy251/Leetcode_DSA/tree/master/0658-find-k-closest-elements) |
 | [0778-swim-in-rising-water](https://github.com/vy251/Leetcode_DSA/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/vy251/Leetcode_DSA/tree/master/1631-path-with-minimum-effort) |
@@ -48,6 +50,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/vy251/Leetcode_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/vy251/Leetcode_DSA/tree/master/0658-find-k-closest-elements) |
 ## Sorting
 |  |
@@ -180,4 +183,8 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/vy251/Leetcode_DSA/tree/master/0127-word-ladder) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/vy251/Leetcode_DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
