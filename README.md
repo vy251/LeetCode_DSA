@@ -39,6 +39,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/vy251/Leetcode_DSA/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/vy251/Leetcode_DSA/tree/master/0658-find-k-closest-elements) |
 ## Binary Search
 |  |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vy251/Leetcode_DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/vy251/Leetcode_DSA/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/vy251/Leetcode_DSA/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/vy251/Leetcode_DSA/tree/master/0904-fruit-into-baskets) |
 ## Sorting
@@ -81,6 +83,7 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/vy251/Leetcode_DSA/tree/master/0127-word-ladder) |
+| [0567-permutation-in-string](https://github.com/vy251/Leetcode_DSA/tree/master/0567-permutation-in-string) |
 | [0767-reorganize-string](https://github.com/vy251/Leetcode_DSA/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/vy251/Leetcode_DSA/tree/master/0904-fruit-into-baskets) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vy251/Leetcode_DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -112,6 +115,7 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/vy251/Leetcode_DSA/tree/master/0127-word-ladder) |
+| [0567-permutation-in-string](https://github.com/vy251/Leetcode_DSA/tree/master/0567-permutation-in-string) |
 | [0767-reorganize-string](https://github.com/vy251/Leetcode_DSA/tree/master/0767-reorganize-string) |
 | [2409-count-days-spent-together](https://github.com/vy251/Leetcode_DSA/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/vy251/Leetcode_DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
