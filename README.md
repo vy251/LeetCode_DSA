@@ -57,6 +57,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/vy251/Leetcode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/vy251/Leetcode_DSA/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/vy251/Leetcode_DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/vy251/Leetcode_DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/vy251/Leetcode_DSA/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/vy251/Leetcode_DSA/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/vy251/Leetcode_DSA/tree/master/0904-fruit-into-baskets) |
@@ -90,6 +91,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/vy251/Leetcode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/vy251/Leetcode_DSA/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/vy251/Leetcode_DSA/tree/master/0127-word-ladder) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/vy251/Leetcode_DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/vy251/Leetcode_DSA/tree/master/0567-permutation-in-string) |
 | [0767-reorganize-string](https://github.com/vy251/Leetcode_DSA/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/vy251/Leetcode_DSA/tree/master/0904-fruit-into-baskets) |
@@ -124,6 +126,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/vy251/Leetcode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/vy251/Leetcode_DSA/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/vy251/Leetcode_DSA/tree/master/0127-word-ladder) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/vy251/Leetcode_DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/vy251/Leetcode_DSA/tree/master/0567-permutation-in-string) |
 | [0767-reorganize-string](https://github.com/vy251/Leetcode_DSA/tree/master/0767-reorganize-string) |
 | [2409-count-days-spent-together](https://github.com/vy251/Leetcode_DSA/tree/master/2409-count-days-spent-together) |
