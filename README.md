@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vy251/Leetcode_DSA/tree/master/0049-group-anagrams) |
 | [0130-surrounded-regions](https://github.com/vy251/Leetcode_DSA/tree/master/0130-surrounded-regions) |
 | [0209-minimum-size-subarray-sum](https://github.com/vy251/Leetcode_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/vy251/Leetcode_DSA/tree/master/0658-find-k-closest-elements) |
@@ -65,6 +66,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vy251/Leetcode_DSA/tree/master/0049-group-anagrams) |
 | [0658-find-k-closest-elements](https://github.com/vy251/Leetcode_DSA/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/vy251/Leetcode_DSA/tree/master/0767-reorganize-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vy251/Leetcode_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -89,6 +91,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vy251/Leetcode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/vy251/Leetcode_DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/vy251/Leetcode_DSA/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/vy251/Leetcode_DSA/tree/master/0127-word-ladder) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vy251/Leetcode_DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -124,6 +127,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vy251/Leetcode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/vy251/Leetcode_DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/vy251/Leetcode_DSA/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/vy251/Leetcode_DSA/tree/master/0127-word-ladder) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vy251/Leetcode_DSA/tree/master/0438-find-all-anagrams-in-a-string) |
