@@ -12,6 +12,7 @@
 | [0724-find-pivot-index](https://github.com/vy251/Leetcode_DSA/tree/master/0724-find-pivot-index) |
 | [0778-swim-in-rising-water](https://github.com/vy251/Leetcode_DSA/tree/master/0778-swim-in-rising-water) |
 | [0904-fruit-into-baskets](https://github.com/vy251/Leetcode_DSA/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/vy251/Leetcode_DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/vy251/Leetcode_DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/vy251/Leetcode_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/vy251/Leetcode_DSA/tree/master/1631-path-with-minimum-effort) |
@@ -101,6 +102,7 @@
 | [0567-permutation-in-string](https://github.com/vy251/Leetcode_DSA/tree/master/0567-permutation-in-string) |
 | [0767-reorganize-string](https://github.com/vy251/Leetcode_DSA/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/vy251/Leetcode_DSA/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/vy251/Leetcode_DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vy251/Leetcode_DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Binary Indexed Tree
 |  |
@@ -217,5 +219,6 @@
 | [0209-minimum-size-subarray-sum](https://github.com/vy251/Leetcode_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/vy251/Leetcode_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/vy251/Leetcode_DSA/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/vy251/Leetcode_DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/vy251/Leetcode_DSA/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
