@@ -91,6 +91,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/vy251/Leetcode_DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vy251/Leetcode_DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/vy251/Leetcode_DSA/tree/master/0509-fibonacci-number) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/vy251/Leetcode_DSA/tree/master/2165-smallest-value-of-the-rearranged-number) |
@@ -216,6 +217,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/vy251/Leetcode_DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vy251/Leetcode_DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/vy251/Leetcode_DSA/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/vy251/Leetcode_DSA/tree/master/0300-longest-increasing-subsequence) |
@@ -252,4 +254,8 @@
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/vy251/Leetcode_DSA/tree/master/1143-longest-common-subsequence) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/vy251/Leetcode_DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
