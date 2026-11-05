@@ -8,6 +8,7 @@
 | [0130-surrounded-regions](https://github.com/vy251/Leetcode_DSA/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/vy251/Leetcode_DSA/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/vy251/Leetcode_DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/vy251/Leetcode_DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0525-contiguous-array](https://github.com/vy251/Leetcode_DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vy251/Leetcode_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/vy251/Leetcode_DSA/tree/master/0658-find-k-closest-elements) |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vy251/Leetcode_DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/vy251/Leetcode_DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/vy251/Leetcode_DSA/tree/master/0658-find-k-closest-elements) |
 | [0778-swim-in-rising-water](https://github.com/vy251/Leetcode_DSA/tree/master/0778-swim-in-rising-water) |
 | [1004-max-consecutive-ones-iii](https://github.com/vy251/Leetcode_DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -215,6 +217,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/vy251/Leetcode_DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/vy251/Leetcode_DSA/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/vy251/Leetcode_DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/vy251/Leetcode_DSA/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vy251/Leetcode_DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Bidirectional Search
@@ -239,4 +242,8 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/vy251/Leetcode_DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/vy251/Leetcode_DSA/tree/master/0509-fibonacci-number) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/vy251/Leetcode_DSA/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
