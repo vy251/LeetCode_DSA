@@ -145,6 +145,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/vy251/Leetcode_DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/vy251/Leetcode_DSA/tree/master/0567-permutation-in-string) |
 | [0767-reorganize-string](https://github.com/vy251/Leetcode_DSA/tree/master/0767-reorganize-string) |
+| [1143-longest-common-subsequence](https://github.com/vy251/Leetcode_DSA/tree/master/1143-longest-common-subsequence) |
 | [2409-count-days-spent-together](https://github.com/vy251/Leetcode_DSA/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/vy251/Leetcode_DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Greedy
@@ -220,6 +221,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/vy251/Leetcode_DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/vy251/Leetcode_DSA/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vy251/Leetcode_DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1143-longest-common-subsequence](https://github.com/vy251/Leetcode_DSA/tree/master/1143-longest-common-subsequence) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -246,4 +248,8 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/vy251/Leetcode_DSA/tree/master/0300-longest-increasing-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/vy251/Leetcode_DSA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
