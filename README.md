@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vy251/Leetcode_DSA/tree/master/0049-group-anagrams) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vy251/Leetcode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/vy251/Leetcode_DSA/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/vy251/Leetcode_DSA/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/vy251/Leetcode_DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -222,6 +223,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/vy251/Leetcode_DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vy251/Leetcode_DSA/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vy251/Leetcode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/vy251/Leetcode_DSA/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/vy251/Leetcode_DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/vy251/Leetcode_DSA/tree/master/0509-fibonacci-number) |
