@@ -15,6 +15,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/vy251/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/vy251/Leetcode_DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/vy251/Leetcode_DSA/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/vy251/Leetcode_DSA/tree/master/0455-assign-cookies) |
 | [0525-contiguous-array](https://github.com/vy251/Leetcode_DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vy251/Leetcode_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/vy251/Leetcode_DSA/tree/master/0658-find-k-closest-elements) |
@@ -55,6 +56,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/vy251/Leetcode_DSA/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/vy251/Leetcode_DSA/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/vy251/Leetcode_DSA/tree/master/0658-find-k-closest-elements) |
 ## Binary Search
@@ -84,6 +86,7 @@
 | [0049-group-anagrams](https://github.com/vy251/Leetcode_DSA/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vy251/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/vy251/Leetcode_DSA/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/vy251/Leetcode_DSA/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/vy251/Leetcode_DSA/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/vy251/Leetcode_DSA/tree/master/0767-reorganize-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vy251/Leetcode_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -167,6 +170,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vy251/Leetcode_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0455-assign-cookies](https://github.com/vy251/Leetcode_DSA/tree/master/0455-assign-cookies) |
 | [0767-reorganize-string](https://github.com/vy251/Leetcode_DSA/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/vy251/Leetcode_DSA/tree/master/0860-lemonade-change) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/vy251/Leetcode_DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -294,4 +298,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vy251/Leetcode_DSA/tree/master/0347-top-k-frequent-elements) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/vy251/Leetcode_DSA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
