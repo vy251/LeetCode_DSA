@@ -7,6 +7,6 @@ public:
             maxi=max(maxi,i+nums[i]);
             if(maxi>=nums.size()-1) return true;
          }
-         return false;
+         return true;
     }
 };
