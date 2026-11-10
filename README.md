@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vy251/Leetcode_DSA/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/vy251/Leetcode_DSA/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vy251/Leetcode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vy251/Leetcode_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/vy251/Leetcode_DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -169,6 +170,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/vy251/Leetcode_DSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vy251/Leetcode_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/vy251/Leetcode_DSA/tree/master/0455-assign-cookies) |
 | [0767-reorganize-string](https://github.com/vy251/Leetcode_DSA/tree/master/0767-reorganize-string) |
@@ -239,6 +241,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/vy251/Leetcode_DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/vy251/Leetcode_DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vy251/Leetcode_DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vy251/Leetcode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
