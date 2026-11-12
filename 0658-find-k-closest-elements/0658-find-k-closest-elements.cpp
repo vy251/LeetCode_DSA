@@ -1,17 +1,43 @@
 class Solution {
 public:
+    int floor(vector<int>&arr,int x){
+        int l=0,h=arr.size()-1;
+        int ans=0;
+        while(l<=h){
+            int mid=(l+h)/2;
+            if(arr[mid]==x) return mid;
+            if(arr[mid]<x){
+                ans=mid;
+                l=mid+1;
+            }
+            else h=mid-1;
+        }
+        return ans;
+    }
     vector<int> findClosestElements(vector<int>& arr, int k, int x) {
-        priority_queue<pair<int,int>>pq;
-        for(int i=0;i<arr.size();i++){
-            pq.push({abs(arr[i]-x),arr[i]});
-            if(pq.size()>k) pq.pop();
-        }
+        int i=floor(arr,x),j=i+1;
         vector<int>ans;
-        while(!pq.empty()){
-           ans.push_back(pq.top().second);
-           pq.pop();
+        while(k>0&&i>=0&&j<arr.size()){
+            if(abs(arr[i]-x)<=abs(arr[j]-x)){
+                ans.insert(ans.begin(),arr[i]);
+                i--;
+            }
+            else{
+                ans.push_back(arr[j]);
+                j++;
+            }
+            k--;
         }
-        sort(ans.begin(),ans.end());
+        while(k>0&&i>=0){
+            ans.insert(ans.begin(),arr[i]);
+            i--;
+            k--;
+        }
+        while(k>0&&j<arr.size()){
+            ans.push_back(arr[j]);
+            j++;
+            k--;
+        }
         return ans;
     }
 };
