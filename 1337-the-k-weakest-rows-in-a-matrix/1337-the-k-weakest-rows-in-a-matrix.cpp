@@ -1,16 +1,13 @@
 class Solution {
 public:
     vector<int> kWeakestRows(vector<vector<int>>& mat, int k) {
-        unordered_map<int,int>m;
-        for(int i=0;i<mat.size();i++){
-            m[i]=0;
-            for(int j=0;j<mat[0].size();j++){
-                if(mat[i][j]==1) m[i]++;
-            }
-        }
         priority_queue<pair<int,int>>pq;
-        for(auto i:m){
-            pq.push({i.second,i.first});
+        for(int i=0;i<mat.size();i++){
+            int count=0;
+            for(int j=0;j<mat[0].size();j++){
+               count+=mat[i][j];
+            }
+            pq.push({count,i});
             if(pq.size()>k) pq.pop();
         }
         vector<int>ans;
