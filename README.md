@@ -8,6 +8,7 @@
 | [0045-jump-game-ii](https://github.com/vy251/Leetcode_DSA/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/vy251/Leetcode_DSA/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/vy251/Leetcode_DSA/tree/master/0055-jump-game) |
+| [0075-sort-colors](https://github.com/vy251/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vy251/Leetcode_DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vy251/Leetcode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vy251/Leetcode_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vy251/Leetcode_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/vy251/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vy251/Leetcode_DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0455-assign-cookies](https://github.com/vy251/Leetcode_DSA/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/vy251/Leetcode_DSA/tree/master/0567-permutation-in-string) |
@@ -95,6 +97,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vy251/Leetcode_DSA/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/vy251/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vy251/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/vy251/Leetcode_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/vy251/Leetcode_DSA/tree/master/0455-assign-cookies) |
@@ -329,6 +332,7 @@
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vy251/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/vy251/Leetcode_DSA/tree/master/0455-assign-cookies) |
 ## Trie
 |  |
@@ -342,4 +346,8 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/vy251/Leetcode_DSA/tree/master/0973-k-closest-points-to-origin) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vy251/Leetcode_DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
