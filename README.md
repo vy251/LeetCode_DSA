@@ -34,6 +34,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/vy251/Leetcode_DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/vy251/Leetcode_DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/vy251/Leetcode_DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/vy251/Leetcode_DSA/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vy251/Leetcode_DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vy251/Leetcode_DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1631-path-with-minimum-effort](https://github.com/vy251/Leetcode_DSA/tree/master/1631-path-with-minimum-effort) |
@@ -130,6 +131,7 @@
 | [0778-swim-in-rising-water](https://github.com/vy251/Leetcode_DSA/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vy251/Leetcode_DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/vy251/Leetcode_DSA/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/vy251/Leetcode_DSA/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vy251/Leetcode_DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/vy251/Leetcode_DSA/tree/master/1631-path-with-minimum-effort) |
 ## Math
