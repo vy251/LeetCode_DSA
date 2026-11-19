@@ -40,6 +40,7 @@
 | [1631-path-with-minimum-effort](https://github.com/vy251/Leetcode_DSA/tree/master/1631-path-with-minimum-effort) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vy251/Leetcode_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/vy251/Leetcode_DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/vy251/Leetcode_DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vy251/Leetcode_DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/vy251/Leetcode_DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/vy251/Leetcode_DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -118,6 +119,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/vy251/Leetcode_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/vy251/Leetcode_DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/vy251/Leetcode_DSA/tree/master/2165-smallest-value-of-the-rearranged-number) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/vy251/Leetcode_DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vy251/Leetcode_DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
@@ -212,6 +214,7 @@
 | [0455-assign-cookies](https://github.com/vy251/Leetcode_DSA/tree/master/0455-assign-cookies) |
 | [0767-reorganize-string](https://github.com/vy251/Leetcode_DSA/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/vy251/Leetcode_DSA/tree/master/0860-lemonade-change) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/vy251/Leetcode_DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/vy251/Leetcode_DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vy251/Leetcode_DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
