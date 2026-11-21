@@ -28,6 +28,7 @@
 | [0658-find-k-closest-elements](https://github.com/vy251/Leetcode_DSA/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/vy251/Leetcode_DSA/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/vy251/Leetcode_DSA/tree/master/0724-find-pivot-index) |
+| [0766-toeplitz-matrix](https://github.com/vy251/Leetcode_DSA/tree/master/0766-toeplitz-matrix) |
 | [0778-swim-in-rising-water](https://github.com/vy251/Leetcode_DSA/tree/master/0778-swim-in-rising-water) |
 | [0860-lemonade-change](https://github.com/vy251/Leetcode_DSA/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/vy251/Leetcode_DSA/tree/master/0904-fruit-into-baskets) |
@@ -67,6 +68,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/vy251/Leetcode_DSA/tree/master/0130-surrounded-regions) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vy251/Leetcode_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0766-toeplitz-matrix](https://github.com/vy251/Leetcode_DSA/tree/master/0766-toeplitz-matrix) |
 | [0778-swim-in-rising-water](https://github.com/vy251/Leetcode_DSA/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/vy251/Leetcode_DSA/tree/master/0994-rotting-oranges) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vy251/Leetcode_DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
