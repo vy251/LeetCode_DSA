@@ -40,6 +40,7 @@
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vy251/Leetcode_DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vy251/Leetcode_DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1631-path-with-minimum-effort](https://github.com/vy251/Leetcode_DSA/tree/master/1631-path-with-minimum-effort) |
+| [1672-richest-customer-wealth](https://github.com/vy251/Leetcode_DSA/tree/master/1672-richest-customer-wealth) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vy251/Leetcode_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/vy251/Leetcode_DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/vy251/Leetcode_DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -73,6 +74,7 @@
 | [0994-rotting-oranges](https://github.com/vy251/Leetcode_DSA/tree/master/0994-rotting-oranges) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vy251/Leetcode_DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/vy251/Leetcode_DSA/tree/master/1631-path-with-minimum-effort) |
+| [1672-richest-customer-wealth](https://github.com/vy251/Leetcode_DSA/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
 |  |
 | ------- |
