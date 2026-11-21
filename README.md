@@ -24,6 +24,7 @@
 | [0455-assign-cookies](https://github.com/vy251/Leetcode_DSA/tree/master/0455-assign-cookies) |
 | [0525-contiguous-array](https://github.com/vy251/Leetcode_DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vy251/Leetcode_DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/vy251/Leetcode_DSA/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/vy251/Leetcode_DSA/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/vy251/Leetcode_DSA/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/vy251/Leetcode_DSA/tree/master/0724-find-pivot-index) |
@@ -112,6 +113,7 @@
 | [0347-top-k-frequent-elements](https://github.com/vy251/Leetcode_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vy251/Leetcode_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/vy251/Leetcode_DSA/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/vy251/Leetcode_DSA/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/vy251/Leetcode_DSA/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/vy251/Leetcode_DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/vy251/Leetcode_DSA/tree/master/0767-reorganize-string) |
@@ -129,6 +131,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/vy251/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/vy251/Leetcode_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vy251/Leetcode_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0621-task-scheduler](https://github.com/vy251/Leetcode_DSA/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/vy251/Leetcode_DSA/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/vy251/Leetcode_DSA/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/vy251/Leetcode_DSA/tree/master/0743-network-delay-time) |
@@ -162,6 +165,7 @@
 | [0525-contiguous-array](https://github.com/vy251/Leetcode_DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vy251/Leetcode_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/vy251/Leetcode_DSA/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/vy251/Leetcode_DSA/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/vy251/Leetcode_DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/vy251/Leetcode_DSA/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/vy251/Leetcode_DSA/tree/master/0904-fruit-into-baskets) |
@@ -214,6 +218,7 @@
 | [0055-jump-game](https://github.com/vy251/Leetcode_DSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vy251/Leetcode_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/vy251/Leetcode_DSA/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/vy251/Leetcode_DSA/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/vy251/Leetcode_DSA/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/vy251/Leetcode_DSA/tree/master/0860-lemonade-change) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/vy251/Leetcode_DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -223,6 +228,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vy251/Leetcode_DSA/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/vy251/Leetcode_DSA/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/vy251/Leetcode_DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/vy251/Leetcode_DSA/tree/master/0767-reorganize-string) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/vy251/Leetcode_DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
