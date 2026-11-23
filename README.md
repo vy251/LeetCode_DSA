@@ -52,6 +52,7 @@
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/vy251/Leetcode_DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3693-climbing-stairs-ii](https://github.com/vy251/Leetcode_DSA/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vy251/Leetcode_DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vy251/Leetcode_DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -161,6 +162,7 @@
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/vy251/Leetcode_DSA/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2409-count-days-spent-together](https://github.com/vy251/Leetcode_DSA/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/vy251/Leetcode_DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vy251/Leetcode_DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
