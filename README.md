@@ -21,6 +21,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/vy251/Leetcode_DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/vy251/Leetcode_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vy251/Leetcode_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/vy251/Leetcode_DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/vy251/Leetcode_DSA/tree/master/0455-assign-cookies) |
 | [0525-contiguous-array](https://github.com/vy251/Leetcode_DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vy251/Leetcode_DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -152,6 +153,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/vy251/Leetcode_DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vy251/Leetcode_DSA/tree/master/0070-climbing-stairs) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/vy251/Leetcode_DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/vy251/Leetcode_DSA/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/vy251/Leetcode_DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1352-product-of-the-last-k-numbers](https://github.com/vy251/Leetcode_DSA/tree/master/1352-product-of-the-last-k-numbers) |
