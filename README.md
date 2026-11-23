@@ -38,6 +38,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/vy251/Leetcode_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/vy251/Leetcode_DSA/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vy251/Leetcode_DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/vy251/Leetcode_DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vy251/Leetcode_DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1631-path-with-minimum-effort](https://github.com/vy251/Leetcode_DSA/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/vy251/Leetcode_DSA/tree/master/1672-richest-customer-wealth) |
@@ -153,6 +154,7 @@
 | [0070-climbing-stairs](https://github.com/vy251/Leetcode_DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/vy251/Leetcode_DSA/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/vy251/Leetcode_DSA/tree/master/0973-k-closest-points-to-origin) |
+| [1352-product-of-the-last-k-numbers](https://github.com/vy251/Leetcode_DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vy251/Leetcode_DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/vy251/Leetcode_DSA/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2409-count-days-spent-together](https://github.com/vy251/Leetcode_DSA/tree/master/2409-count-days-spent-together) |
@@ -324,6 +326,7 @@
 | [0724-find-pivot-index](https://github.com/vy251/Leetcode_DSA/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vy251/Leetcode_DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/vy251/Leetcode_DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/vy251/Leetcode_DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vy251/Leetcode_DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/vy251/Leetcode_DSA/tree/master/3364-minimum-positive-sum-subarray) |
 ## Recursion
@@ -389,4 +392,12 @@
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/vy251/Leetcode_DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/vy251/Leetcode_DSA/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/vy251/Leetcode_DSA/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
