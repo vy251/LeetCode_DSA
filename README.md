@@ -40,6 +40,7 @@
 | [1046-last-stone-weight](https://github.com/vy251/Leetcode_DSA/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vy251/Leetcode_DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1352-product-of-the-last-k-numbers](https://github.com/vy251/Leetcode_DSA/tree/master/1352-product-of-the-last-k-numbers) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/vy251/Leetcode_DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vy251/Leetcode_DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1631-path-with-minimum-effort](https://github.com/vy251/Leetcode_DSA/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/vy251/Leetcode_DSA/tree/master/1672-richest-customer-wealth) |
@@ -87,6 +88,7 @@
 | [0455-assign-cookies](https://github.com/vy251/Leetcode_DSA/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/vy251/Leetcode_DSA/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/vy251/Leetcode_DSA/tree/master/0658-find-k-closest-elements) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/vy251/Leetcode_DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -97,6 +99,7 @@
 | [0778-swim-in-rising-water](https://github.com/vy251/Leetcode_DSA/tree/master/0778-swim-in-rising-water) |
 | [1004-max-consecutive-ones-iii](https://github.com/vy251/Leetcode_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vy251/Leetcode_DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/vy251/Leetcode_DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1631-path-with-minimum-effort](https://github.com/vy251/Leetcode_DSA/tree/master/1631-path-with-minimum-effort) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vy251/Leetcode_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sliding Window
@@ -126,6 +129,7 @@
 | [0767-reorganize-string](https://github.com/vy251/Leetcode_DSA/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/vy251/Leetcode_DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vy251/Leetcode_DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/vy251/Leetcode_DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vy251/Leetcode_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/vy251/Leetcode_DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/vy251/Leetcode_DSA/tree/master/2165-smallest-value-of-the-rearranged-number) |
