@@ -49,6 +49,7 @@
 | [2567-minimum-score-by-changing-two-elements](https://github.com/vy251/Leetcode_DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vy251/Leetcode_DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/vy251/Leetcode_DSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/vy251/Leetcode_DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/vy251/Leetcode_DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/vy251/Leetcode_DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/vy251/Leetcode_DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
