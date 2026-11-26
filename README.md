@@ -168,6 +168,7 @@
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vy251/Leetcode_DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/vy251/Leetcode_DSA/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2409-count-days-spent-together](https://github.com/vy251/Leetcode_DSA/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/vy251/Leetcode_DSA/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/vy251/Leetcode_DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/vy251/Leetcode_DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vy251/Leetcode_DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -404,6 +405,7 @@
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/vy251/Leetcode_DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/vy251/Leetcode_DSA/tree/master/3360-stone-removal-game) |
 ## Design
 |  |
 | ------- |
